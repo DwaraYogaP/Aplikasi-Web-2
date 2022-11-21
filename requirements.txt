@@ -1,0 +1,6 @@
+streamlit==1.12.2
+numpy==1.23.2
+pandas==1.4.4
+tweepy==4.12.1
+textblob==0.17.1
+regex==2022.9.13
